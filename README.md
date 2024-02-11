@@ -13,6 +13,7 @@
 - **Data Processing:** It allows processing of scraped job posts by applying required keyword searches or removal.
 - **Automated Reporting:** Generate automated reports using the scraped job data and Google Sheets integration. Schedule regular updates and automatically upload reports to Google Drive for easy access and sharing.
 - **Easy Job Application:** Enable users to easily apply for jobs by integrating the script with the Indeed job portal. Simplify the application process and provide a seamless experience for job seekers.
+- **For each jpb we can scrape - jobTitle ,companyName, companyLocation ,salaryDetails ,postedTime ,applyLink , otherDetails**
 
 ## Use Cases:
 1. **Market Research:**
