@@ -1,6 +1,8 @@
 
 # Python Web Scraping Project
 
+[Click here to view sample data](https://docs.google.com/spreadsheets/d/1vyIPk28NmBWbUIEeUbZgJp5OGgZjozXU/edit?usp=sharing&ouid=112030938654494815927&rtpof=true&sd=true)
+
 ## Tech Stacks:
 - **Programming Language:** Python
 - **Core Tools:** Selenium, BeautifulSoup
