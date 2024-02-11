@@ -1,6 +1,9 @@
 
 # Python Web Scraping Project : Indeed.com job portal
 
+Automate job scraping from Indeed using Python with Selenium and BeautifulSoup. Process and visualize data in Google Sheets, enabling easy job applications and insightful market research
+<br/>
+<br/>
 📌 [ Click here to view sample data ](https://docs.google.com/spreadsheets/d/1vyIPk28NmBWbUIEeUbZgJp5OGgZjozXU/edit?usp=sharing&ouid=112030938654494815927&rtpof=true&sd=true)
 
 ## Tech Stacks:
@@ -17,14 +20,15 @@
 
 ## Use Cases:
 1. **Market Research:**
-   - Use the script to scrape job data from the Indeed job portal based on specific keywords relevant to your market research. Process the scraped job data to extract valuable insights and trends.
+Use the script to scrape job data from the Indeed job portal based on specific keywords relevant to your market research. Process the scraped job data to extract valuable insights and trends.
 
 2. **Lead Generation and automation:**
-   - Utilize the script to scrape job posts from the Indeed job portal to identify potential leads for your business. Process the scraped job data to extract relevant information about companies and job positions.
+Utilize the script to scrape job posts from the Indeed job portal to identify potential leads for your business. Process the scraped job data to extract relevant information about companies and job positions.
 
 
 4. **Easy Job Application ans search:**
-    - Enable students to easily apply for jobs by integrating the script with job search websites. Simplify the application process and provide a seamless experience for students.
+   Enable students to easily apply for jobs by integrating the script with job search websites. Simplify the application process and provide a seamless experience for students.
 
-Experiment with different use cases and customize the script according to your specific requirements. Let your creativity flow! 🚀
+## Disclaimer
+This project is created solely for learning and exploration purposes, and it is not intended for any malicious activities. Users are advised to use the scraping tool responsibly and in compliance with website terms of service and legal regulations.
 
