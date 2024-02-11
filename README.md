@@ -1,20 +1,4 @@
-# Python Web Scripting Project
 
-## Tech Stacks:
-- **Programming Language:** Python
-- **Core Tools:** Selenium, BeautifulSoup
-- **Database / Visualization:** Google Sheet
-
-## Features:
-- **Scrape Data:** The script is capable of scraping data based on keywords or URLs provided.
-- **Data Processing:** It allows processing of scraped data by applying required keyword searches or removal.
-- **Output:** This script can generate a Google Sheet and automatically upload it to Google Drive.
-
-## Use Cases:
-1. **Market Research:**
-   - Use the script to scrape data from various websites based on specific keywords relevant to your market research. Process the scraped data to extract valuable insights and trends.
-
-2. **Lead Generation:**
 # Python Web Scraping Project
 
 ## Tech Stacks:
